@@ -25,10 +25,20 @@
 <h2 align="left">✍ My Work</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shivani13121007&show_icons=true&locale=en&theme=dark" alt="shivani13121007" />
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="left">📚 My Skills</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani13121007&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivani13121007" /></p>
 
 
+<br>
+<br>
 <br>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Shivani13121007">  
