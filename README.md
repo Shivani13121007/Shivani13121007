@@ -26,7 +26,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shivani13121007&show_icons=true&locale=en&theme=dark" alt="shivani13121007" />
 
 <h2 align="right">📚 My Skills</h2>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani13121007&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivani13121007" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani13121007&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivani13121007" /></p>
 
 
 
