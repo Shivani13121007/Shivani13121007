@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **WhatsApp Clone**
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **shivani.gupta553955@gmail.com or 6388030061**
+- 📫 How to reach me **shivani.gupta553955@gmail.com**
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
