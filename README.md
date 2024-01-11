@@ -1,13 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Shivani Gupta</h1> -->
 # Hello, folks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90px"> I'm Shivani Gupta
-<h4 align="left">I'm undergraduate pursuing Bachelor's of Technology major Computer Science Engineering with an interest in web development. I am working in the field of Web Development with skills in React, Bootstrap4(5), HTML, CSS, JavaScript, PHP, MySQL, jQuery, AJAX. I'm dedicated and efficient full stack developer with robust problem solving skills and proven experience in scalable web applications. from India</h4>
+<h4 align="left">I am a Software Developer currently working at 6thStreet.com</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani13121007&label=Profile%20views&color=0e75b6&style=flat" alt="shivani13121007" /> </p>
-<h2 align="left">👩 About Me</h2>
-
-
-- 🔭 I’m currently working on **WhatsApp Clone**
-- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **shivani.gupta553955@gmail.com**
 
